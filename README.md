@@ -4,7 +4,7 @@ Press enter at the end of the line and insert the following:
 ```
 {
 		"MatchRegexString": ".*",
-		"TargetCss": "src/fluentlypatches.css"
+		"TargetCss": "src/fluentypatches.css"
 },
 ```
 Place "fluentypatches.css" in fluenty/src  
