@@ -7,7 +7,7 @@ Press enter at the end of the line and insert the following:
 		"TargetCss": "src/fluentlypatches.css"
 },
 ```
-Place "fluentlypatches.css" in fluenty/src  
+Place "fluentypatches.css" in fluenty/src  
   
 thats it!
 
